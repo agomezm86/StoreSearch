@@ -21,3 +21,10 @@ Project made based on www.raywenderlich.com iOS Apprentice Tutorial Part 4 (More
 - Enumerations
 - UIScrollView
 - UIPageControl
+- Completion Handlers
+- Internationalization
+- Localized Strings
+- Split-View Controller
+- Size Classes
+- UIPopoverController
+- MFMailComposeViewController
