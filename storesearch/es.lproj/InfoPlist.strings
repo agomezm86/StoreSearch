@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  storesearch
+
+  Created by Field Service on 4/21/16.
+  Copyright © 2016 Alejandro Gomez Mutis. All rights reserved.
+*/
+
+CFBundleDisplayName = "BuscadorTienda";
